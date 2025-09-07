@@ -37,10 +37,7 @@ No Python installation required — just run the `.exe`.
 
 ---
 
-## 📸 Screenshot
-*(Optional: Add a screenshot of your app here)*  
 
----
 
 ## 📜 License
 This project is open source and free to use.  
