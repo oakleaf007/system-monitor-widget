@@ -1,7 +1,8 @@
-# 🖥️ System Monitor
+# 🖥️ System Monitor (Python + Tkinter)
 
 A lightweight **system monitoring tool** built using **Python** and **Tkinter**.  
-It provides real-time statistics for CPU, RAM, and GPU (NVIDIA only) in a simple, draggable widget interface.
+It provides real-time statistics for CPU, RAM, and GPU (NVIDIA only) in a simple widget interface.  
+Each widget is **draggable** by its title bar and can be **closed with right-click**.  
 
 ---
 
@@ -9,7 +10,7 @@ It provides real-time statistics for CPU, RAM, and GPU (NVIDIA only) in a simple
 - **CPU Usage** – Live CPU usage percentage.  
 - **RAM Usage** – Total memory and current usage percentage.  
 - **GPU Usage (NVIDIA only)** – GPU load percentage and VRAM usage.  
-- **Widgets** – Separate draggable CPU and GPU widgets (right-click to close).  
+- **Widgets** – Separate draggable CPU and GPU widgets (**drag by title bar, right-click to close**).  
 - **Simple UI** – Minimal design with low resource usage.  
 
 ---
