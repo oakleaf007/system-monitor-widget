@@ -5,7 +5,7 @@ It provides real-time statistics for CPU, RAM, and GPU (NVIDIA only) in a simple
 Each widget is **draggable** by its title bar and can be **closed with right-click**.  
 
 ---
-
+![My Project Screenshot](sys.png)
 ## ✨ Features
 - **CPU Usage** – Live CPU usage percentage.  
 - **RAM Usage** – Total memory and current usage percentage.  
